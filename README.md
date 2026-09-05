@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iammayankpratapsingh&label=Profile%20views&color=0e75b6&style=flat" alt="iammayankpratapsingh" /> </p>
 
-- 🔭 I’m currently working on [Homeaway](https://github.com/iammayankpratapsingh/homeaway)
+- 🔭 I’m currently working on [Dozemate]
 
 - 🌱 I’m currently learning **Frameworks, courses etc**
 
